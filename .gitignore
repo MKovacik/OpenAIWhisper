@@ -1,0 +1,23 @@
+# Ignore Python virtual environments
+venv/
+.env/
+.venv/
+
+# Ignore system files
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Whisper model cache
+models/
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore audio files
+audio.mp3
+audio_transcript.txt
