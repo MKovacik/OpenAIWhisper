@@ -15,10 +15,7 @@ __pycache__/
 models/
 
 # Ignore log files
-logs/
-*.log
-*.txt
+transcripts/**/*
 
 # Ignore audio files
 audio.mp3
-audio_transcript.txt
