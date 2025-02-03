@@ -16,6 +16,7 @@ models/
 
 # Ignore log files
 transcripts/**/*
+transcripts/
 
 # Ignore audio files
 audio.mp3
