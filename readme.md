@@ -13,7 +13,7 @@ This project allows automatic transcription of the audio file `audio.mp3` into t
 ### 1️⃣ Clone the Project
 
 ```bash
-git clone https://github.com/your-repo/whisper-transcriber.git
+git clone https://github.com/MKovacik/OpenAIWhisper.git
 cd whisper-transcriber
 ```
 
